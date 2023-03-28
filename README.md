@@ -1,1 +1,2 @@
-# ko-je-brzi
+Vega IT - Izazov
+Ko je brži
